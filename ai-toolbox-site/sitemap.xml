@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://ai-toolbox-site.vercel.app/</loc></url>
+<url><loc>https://ai-toolbox-site.vercel.app/tools/</loc></url>
+<url><loc>https://ai-toolbox-site.vercel.app/about/</loc></url>
+<url><loc>https://ai-toolbox-site.vercel.app/contact/</loc></url>
+<url><loc>https://ai-toolbox-site.vercel.app/privacy/</loc></url>
+<url><loc>https://ai-toolbox-site.vercel.app/terms/</loc></url>
+<url><loc>https://ai-toolbox-site.vercel.app/tools/word-counter/</loc></url>
+<url><loc>https://ai-toolbox-site.vercel.app/tools/character-counter/</loc></url>
+<url><loc>https://ai-toolbox-site.vercel.app/tools/text-case-converter/</loc></url>
+<url><loc>https://ai-toolbox-site.vercel.app/tools/ai-text-summarizer/</loc></url>
+<url><loc>https://ai-toolbox-site.vercel.app/tools/ai-prompt-generator/</loc></url>
+<url><loc>https://ai-toolbox-site.vercel.app/tools/image-compressor/</loc></url>
+<url><loc>https://ai-toolbox-site.vercel.app/tools/image-resizer/</loc></url>
+<url><loc>https://ai-toolbox-site.vercel.app/tools/image-converter/</loc></url>
+<url><loc>https://ai-toolbox-site.vercel.app/tools/text-to-pdf/</loc></url>
+<url><loc>https://ai-toolbox-site.vercel.app/tools/code-formatter/</loc></url>
+<url><loc>https://ai-toolbox-site.vercel.app/tools/unit-converter/</loc></url>
+<url><loc>https://ai-toolbox-site.vercel.app/tools/qr-code-generator/</loc></url>
+</urlset>
